@@ -1,16 +1,4 @@
-# flutter_application_
-
-A new Flutter project.
-
+세 번째 과제인 기차 예매 앱입니다.
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+예매하기 버튼이 어려워 GPT 도움을 받아보려 했는데 도저히 안 돼서 완성을 못 했습니다.
+그래서 강의 예시 버튼을 살짝 수정해 일단 삽입해 두었습니다.
